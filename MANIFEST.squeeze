@@ -1,0 +1,11 @@
+/usr/local/bin/ipkg-build
+/usr/local/bin/ipkg-compare-versions
+/usr/local/bin/ipkg-deb-unbuild
+/usr/local/bin/ipkg-make-index
+/usr/local/bin/ipkg-unbuild
+/usr/local/bin/ipkg-upload
+/usr/local/lib/python*/dist-packages/ipkg.py
+/usr/local/lib/python*/dist-packages/ipkg.pyc
+/usr/local/bin/ipkg-update-index
+/usr/local/bin/ipkg-compare-indexes
+/usr/local/bin/ipkg-make-index
